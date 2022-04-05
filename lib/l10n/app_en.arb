@@ -1,0 +1,30 @@
+{
+    "language": "English",
+    "@language": {
+        "description": "the current language"
+    },
+    "login": "Login",
+    "@login": {
+        "description": "login current app"
+    } , 
+    "register": "Register now",
+    "@register" : {
+        "description": "Register in the current app"
+    } ,
+    "register_anonymous": "Continue without Registeration",
+    "@register_anonymous" : {
+        "description": "Register Anonymously in the current app"
+    } ,
+    "usernameoremail" : "Email",
+    "@Usernameoremail" : {
+        "description" : "Add your user name or email to login"
+    } ,
+    "password" : "Password",
+    "@password" : {
+        "description" : "Add your password to login"
+    } ,
+    "mobile" : "Mobile",
+    "@mobile" : {
+        "description" : "Add your mobile to login"
+    }
+}

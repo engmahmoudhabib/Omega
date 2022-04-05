@@ -1,0 +1,9 @@
+{
+    "language": "العربية",
+    "login": "تسجيل الدخول",
+    "register": "التسجيل" ,
+    "register_anonymous": "متابعة دون تسجيل دخول",
+    "usernameoremail" : "الإيميل" ,
+    "password" : "كلمة المرور",
+    "mobile" : "الموبايل" 
+}
