@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1094265223549",
+    "project_id": "omega-f606a",
+    "storage_bucket": "omega-f606a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1094265223549:android:6a11eaa8d7705240e3f414",
+        "android_client_info": {
+          "package_name": "com.example.omega"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1094265223549-9ldhao6nrlsvo6cj47brpt1lhstuoucv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBz4MpFWazdNlBbLD5X6PENhPYPvtavvYg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1094265223549-9ldhao6nrlsvo6cj47brpt1lhstuoucv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
